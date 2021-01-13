@@ -3,9 +3,8 @@
  * 
  * Author:      Lianyin Jia
  *              Faculty of Information Engineering and Automation
- *              Kunming University of Science & Technology
- *              http://www.caam.rice.edu/~dougm
- * Date:        June 20 2020
+ *              Kunming University of Science & Technology               
+ * Date:        October 20 2020
  * Copyright (c) 2020-2022, Kunming University of Science & Technology
  */
 
